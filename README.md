@@ -14,7 +14,7 @@ is done using UE4 Blueprints.
 [Download](https://github.com/JakeSichley/CrossyRoadClone/archive/master.zip) the zip of the
 project and open in the latest version of Unreal Engine 4.
 
-# Contributors
+## Contributors
 
 _Crunch Games_
 * [Jake Sichley](https://github.com/JakeSichley)
